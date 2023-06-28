@@ -2,11 +2,11 @@ from turtle import *
 color('red', 'lightgreen')
 begin_fill()
 bgcolor("black")
-penup()
+pu()
 # backward(300)
-pendown()
+pd()
 while True:
-    forward(400)
+    forward(450)
     left(170)
     if abs(pos()) < 1:
         break
