@@ -1,5 +1,5 @@
 from turtle import *
-color('red', 'yellow')
+color('red', 'lightgreen')
 begin_fill()
 bgcolor("black")
 penup()
