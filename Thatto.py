@@ -80,8 +80,11 @@ b.fd(80)
 b.begin_fill()
 b.pendown()
 b.circle(-50,355)
+
+
 b.penup()
 b.right(90)
 b.fd(45)
 b.end_fill()
 b.penup()
+done()
